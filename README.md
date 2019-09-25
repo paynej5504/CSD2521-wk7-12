@@ -1,2 +1,2 @@
-# CSD2521-wk6-12
+# CSD2521-wk7-12
 Files for student 12
